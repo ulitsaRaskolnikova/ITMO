@@ -1,0 +1,465 @@
+{
+  "main": {
+    "id": "6e57cead9ec70995",
+    "type": "split",
+    "children": [
+      {
+        "id": "a792ff295f0e5dcb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80edd314b4bf69f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "discrete_math/Орграф.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "77b40fa140322823",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "discrete_math/Стрелка.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fadea5bf5159a4e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "discrete_math/Подграф орграфа.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd0bb8ac435b04aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "discrete_math/Исходящая и входящая степень.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b1172deeb184a1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "discrete_math/Следствие о простом пути в графе КСС у турнира.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "76dbda6c82d38646",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "discrete_math/Теорема о сильной связности турнира при удалении двух вершин.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d71355d5b8bffe3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "discrete_math/Теорема Муна о k путях и циклах в сильно связном турнире.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "633ea8755c2da93a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "discrete_math/Максимальное независимое множество вершин орграфа.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b49b07f25498c180",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "discrete_math/Теорема Хватала и Ловаса о максимальном независимом множестве.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e7ec4041ffd5e82a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "discrete_math/Следствие о пути длиной 2 от вершины в турнире.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9e50689a35d11e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "discrete_math/Теорема Роя и Галли о длине пути и раскрасках.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "79ef9d6e8bb24ed3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "discrete_math/Ядро орграфа.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc3d4a4e82824f42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "discrete_math/Лемма о правильной списочной раскраске в орграфе с ядром.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b1301d739f5d74b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "discrete_math/Теорема Гэльвина о раскрасках и степени.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e00e429bececdaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "discrete_math/Теорема Галлаи-Милграма о покрытии вершин путями.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af8ed425002953dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "discrete_math/Цепь и антицепь.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "59ee036171c5f2f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "discrete_math/Теорема Гэльвина о раскрасках и степени.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            },
+            "group": "fad9124386a7c45b"
+          },
+          {
+            "id": "a5754909d3227673",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "discrete_math/Списочные раскраски.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e8bd7478c78c7b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "discrete_math/Следствие Дилворта о количествах цепей и антицепей.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 18
+      },
+      {
+        "id": "92810aabc2b26878",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6edf4e5c4bd70cc0",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "discrete_math/Теорема Гэльвина о раскрасках и степени.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.6017173100665303,
+                  "close": true
+                }
+              }
+            },
+            "group": "fad9124386a7c45b"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e35fc9dcef9576ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9c0e98f55afca9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ad879b963b78c2c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3d645b23625913e2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "10daa94e89c6ab5c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "2a03c1d3cd140401",
+    "type": "split",
+    "children": [
+      {
+        "id": "f133a9bb20a523c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06f1434a20f39875",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "discrete_math/Следствие Дилворта о количествах цепей и антицепей.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "65e6346f7223e943",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "discrete_math/Следствие Дилворта о количествах цепей и антицепей.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f3729a9644481f35",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "533bed23e1398afd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "discrete_math/Следствие Дилворта о количествах цепей и антицепей.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2e8bd7478c78c7b0",
+  "lastOpenFiles": [
+    "discrete_math/Цепь и антицепь.md",
+    "discrete_math/Теорема Галлаи-Милграма о покрытии вершин путями.md",
+    "discrete_math/Теорема Гэльвина о раскрасках и степени.md",
+    "discrete_math/Ациклический орграф.md",
+    "discrete_math/Лемма о правильной списочной раскраске в орграфе с ядром.md",
+    "discrete_math/Списочные раскраски.md",
+    "discrete_math/Ядро орграфа.md",
+    "discrete_math/Теорема Роя и Галли о длине пути и раскрасках.md",
+    "math_analysis/Теорема Ролля.md",
+    "discrete_math/Максимальное независимое множество вершин орграфа.md",
+    "discrete_math/Теорема Хватала и Ловаса о максимальном независимом множестве.md",
+    "discrete_math/Теорема Муна о k путях и циклах в сильно связном турнире.md",
+    "discrete_math/Теорема о сильной связности турнира при удалении двух вершин.md",
+    "discrete_math/Следствие о пути длиной 2 от вершины в турнире.md",
+    "discrete_math/Гамильтонов цикл в орграфе.md",
+    "discrete_math/Теорема Гуля-Хури о гамильтонова цикле.md",
+    "discrete_math/Теорема о сильно связном орграфе.md",
+    "discrete_math/Сильная связность графа.md",
+    "discrete_math/Теорема о гамильтонове цикле в сильно связном турнире.md",
+    "discrete_math/Лемма о гамильтоновом пути в турнире.md",
+    "discrete_math/Компонента сильной связности.md",
+    "discrete_math/Лемма об ациклическом орграфе.md",
+    "discrete_math/Входящее и исходящее дерево.md",
+    "discrete_math/Следствие из теоремы о входящем и исходящем дереве.md",
+    "discrete_math/Лемма о входящем и исходящем дереве.md",
+    "discrete_math/Теорема о входящем и исходящем дереве.md",
+    "files/Pasted image 20240610165256.png",
+    "discrete_math",
+    "Построение ЖНФ Малышева Н. А..pdf",
+    "Снимок экрана 2024-03-19 в 03.33.48.png",
+    "telegram-cloud-photo-size-2-5451888064155735220-y.jpg",
+    "Pasted image 20240316130931.png",
+    "templates"
+  ]
+}
